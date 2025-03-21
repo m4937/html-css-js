@@ -1,0 +1,109 @@
+#navbar{
+    margin: 10px;
+    padding: 10px;
+
+    height: 50px;
+
+}
+#nav1{
+    position: absolute;
+    margin-left: 10px;
+}
+#nav2{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 240px;
+}
+#nav3{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 490px;
+}
+#nav4{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 745px;
+}
+#nav5{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 975px;
+}
+#nav6{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1200px;
+}
+.nav{
+    border: 1px solid black;
+    padding: 10px 15px;
+    height: 20px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: tomato;
+
+}
+.box1{
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    border: 2px solid black;
+   
+}
+.text1{
+    margin: 10px;
+    padding: 10px;
+    height: 50px;
+    width: 500px;
+    border: 2px solid black;
+    overflow: scroll;
+   
+}
+.text2{
+    margin: 10px;
+    padding: 10px;
+    height: 70px;
+    width: 500px;
+    border: 2px solid black;
+    overflow: auto;
+}
+.text3{
+    margin: 10px;
+    padding: 10px;
+    height: 70px;
+    width: 500px;
+    border: 2px solid black;
+    overflow-x: scroll;
+    text-wrap: nowrap;
+}
+.text4{
+    margin: 10px;
+    padding: 10px;
+    height: 50px;
+    width: 500px;
+    border: 2px solid black;
+    overflow: visible;
+
+}
+.text5{
+    margin: 10px;
+    padding: 10px;
+    height: 50px;
+    width: 500px;
+    border: 2px solid black;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  
+   
+
+
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
+
+
